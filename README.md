@@ -1,8 +1,8 @@
-BUILD A TO-DO LIST
+# BUILD A TO-DO LIST
 
-Using Express and an in-memory data structure, build a real todo list application. You should be able to add new todos and mark todos as complete.
+Use Express to build a todo list application.You should be able to add new todos and mark todos as complete.
 
-Use Express to build a todo list application. In order to keep the list of todos, you will need to create some data structure and update it from Express, like this example:
+In order to keep the list of todos, you will need to create some data structure and update it from Express, like this example:
 
 const todos = [
   "Wash the car"
@@ -34,4 +34,3 @@ SETUP ATOM FILES
     package.json   
 
     README.md
-# CreateToDoListEXPRESS
